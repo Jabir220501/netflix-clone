@@ -1,6 +1,7 @@
 # Netflix Clone Project
 
 Welcome to my Netflix Clone project! 🎬
+https://netflix-clone-gilt-theta.vercel.app/
 
 ## Overview
 
